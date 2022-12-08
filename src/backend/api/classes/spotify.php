@@ -9,6 +9,10 @@
             $this->clientId = $clientId;
             $this->clientSecret = $clientSecret;
             $this->redirectUri = $redirectUri;
+
+            $this->spotifyEndpoint = "";
         }
+
+        function
     }
 ?>
